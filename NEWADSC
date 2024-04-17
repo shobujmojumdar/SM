@@ -281,3 +281,80 @@ http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="🔥", DISCOVERY HD
 http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="PK | HUM TV FHD" tvg-logo="http://b1g.me/logos2/humhd.jpg" group-title="PAKISTAN",PK | HUM TV FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158282.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY DIGITAL FHD" tvg-logo="http://b1g.me/logos2/ary_digitalhd.jpg" group-title="PAKISTAN",PK | ARY DIGITAL FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158289.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY DIGITAL SD" tvg-logo="http://b1g.me/logos2/ary_digital.jpg" group-title="PAKISTAN",PK | ARY DIGITAL SD
+http://1tv1.net:8080/live/Hasan2222/654321/158290.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY ZINDAGI" tvg-logo="http://b1g.me/logos2/ary_zindagai.jpg" group-title="PAKISTAN",PK | ARY ZINDAGI
+http://1tv1.net:8080/live/Hasan2222/654321/158291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY QTV" tvg-logo="http://b1g.me:80/images/787b54174ace58a813dde6b35d4fb38c.png" group-title="PAKISTAN",PK | ARY QTV
+http://1tv1.net:8080/live/Hasan2222/654321/158376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | MADANI TV" tvg-logo="http://b1g.me:80/images/7d86e64be4a61315b9c2c68e1de43eb8.jpg" group-title="PAKISTAN",PK | MADANI TV
+http://1tv1.net:8080/live/Hasan2222/654321/158377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PEACE TV ENGLISH" tvg-logo="http://b1g.ca:80/images/eb9a12306bf180d15677efa639894423.png" group-title="PAKISTAN",PK | PEACE TV ENGLISH
+http://1tv1.net:8080/live/Hasan2222/654321/158378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PEACE TV URDU" tvg-logo="http://b1g.ca:80/images/cc043f52d8e35867bb341ab084ba134b.png" group-title="PAKISTAN",PK | PEACE TV URDU
+http://1tv1.net:8080/live/Hasan2222/654321/158379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO ENTERTAINMENT SD" tvg-logo="http://b1g.me/logos2/geo_entertainment.jpg" group-title="PAKISTAN",PK | GEO ENTERTAINMENT SD
+http://1tv1.net:8080/live/Hasan2222/654321/158293.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO KAHANI FHD" tvg-logo="http://b1g.me/logos2/geo_kahani.jpg" group-title="PAKISTAN",PK | GEO KAHANI FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158294.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | BOL ENTERTAINMENT FHD" tvg-logo="http://b1g.me/logos2/bol_ent.jpg" group-title="PAKISTAN",PK | BOL ENTERTAINMENT FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158297.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | A PLUS" tvg-logo="http://b1g.me/logos2/aplus.jpg" group-title="PAKISTAN",PK | A PLUS
+http://1tv1.net:8080/live/Hasan2222/654321/158298.ts
+#EXTINF:-1,PK| A - SPORTS
+http://4ksuper.live:80/Michael88/Michael88/104791
+#EXTINF:-1,PK| A - SPORTS FHD
+http://4ksuper.live:80/Michael88/Michael88/165565
+#EXTINF:-1,PK| GEO TV
+http://4ksuper.live:80/Michael88/Michael88/281121
+#EXTINF:-1,PK| GEO TEZZ
+http://4ksuper.live:80/Michael88/Michael88/281120
+#EXTINF:-1,PK| GEO NEWS
+http://4ksuper.live:80/Michael88/Michael88/281119
+#EXTINF:-1,PK| GEO KAHANI
+http://4ksuper.live:80/Michael88/Michael88/281118
+#EXTINF:-1,PK| GEO NEWS (NA)
+http://4ksuper.live:80/Michael88/Michael88/118539
+#EXTINF:-1,PK| HUM TV
+http://4ksuper.live:80/Michael88/Michael88/281125
+#EXTINF:-1,PK| HUM SITARAY
+http://4ksuper.live:80/Michael88/Michael88/281124
+#EXTINF:-1,PK| HUM EUROPE
+http://4ksuper.live:80/Michael88/Michael88/104861
+
+#EXTINF:-1,PK| HUM NEWS HD
+http://4ksuper.live:80/Michael88/Michael88/1116508
+#EXTINF:-1,PK| HUM PASHTO
+http://4ksuper.live:80/Michael88/Michael88/165633
+#EXTINF:-1,PK| ARY ZINDAGI
+http://4ksuper.live:80/Michael88/Michael88/281104
+#EXTINF:-1,PK| ARY QTV
+http://4ksuper.live:80/Michael88/Michael88/281103
+#EXTINF:-1,PK| ARY NEWS ASIA
+http://4ksuper.live:80/Michael88/Michael88/281102
+#EXTINF:-1,PK| ARY NEWS (NA)
+http://4ksuper.live:80/Michael88/Michael88/118540
+#EXTINF:-1,PK| ARY DIGITAL ASIA
+http://4ksuper.live:80/Michael88/Michael88/281099
+#EXTINF:-1,PK| ARY DIGITAL (NA)
+http://4ksuper.live:80/Michael88/Michael88/118535
+#EXTINF:-1,PK| PTV WORLD
+http://4ksuper.live:80/Michael88/Michael88/1112807
+#EXTINF:-1,PK| PTV GLOBAL EU
+http://4ksuper.live:80/Michael88/Michael88/42455
+#EXTINF:-1,PK| PTV NEWS
+http://4ksuper.live:80/Michael88/Michael88/281145
+#EXTINF:-1,PK| PTV HOME
+http://4ksuper.live:80/Michael88/Michael88/281143
+#EXTINF:-1,PK| PTV SPORTS FHD
+http://4ksuper.live:80/Michael88/Michael88/281089
+#EXTINF:-1,PK| PTV SPORTS HD
+http://4ksuper.live:80/Michael88/Michael88/1116509
+#EXTINF:-1,PK| AJJ NEWS
+http://4ksuper.live:80/Michael88/Michael88/1112806
