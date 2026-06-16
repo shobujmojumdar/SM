@@ -5,6 +5,8 @@ https://tvex.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
 https://tvex.easypecker.com/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="FIFA World Cup 2026",Somoy Tv
 https://tvex.easypecker.com/somyyt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Unite 8" group-title="FIFA World Cup 2026",Unite 8
+https://tvex.easypecker.com/spotyfyz_bdix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
