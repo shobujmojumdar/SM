@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="T Sports HD" group-title="FIFA World Cup 2026",T Sports HD
+https://tvex.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T Sports HD 2" group-title="FIFA World Cup 2026",T Sports HD 2
+https://tvex.easypecker.com/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Somoy TV" group-title="FIFA World Cup 2026",Somoy Tv
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
 #EXTVLCOPT:http-origin=https://executeandship.com
