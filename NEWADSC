@@ -3,6 +3,14 @@
 https://tvex.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="T Sports HD 2" group-title="FIFA World Cup 2026",T Sports HD 2
 https://tvex.easypecker.com/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T Sports HD 2" group-title="FIFA World Cup 2026",T Sports HD 3
+https://tvex.easypecker.com/TSportsHD_nk_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T Sports HD 2" group-title="FIFA World Cup 2026",T Sports HD 4
+https://tvex.easypecker.com/TSportsHD_nk_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T Sports HD 2" group-title="FIFA World Cup 2026",T Sports HD 5
+https://tvex.easypecker.com/TSportsHD_rc_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="T Sports HD 2" group-title="FIFA World Cup 2026",T Sports HD 6
+https://tvex.easypecker.com/TSportsHD_rc_nix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="FIFA World Cup 2026",Somoy Tv
 https://tvex.easypecker.com/somyyt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Unite 8" group-title="FIFA World Cup 2026",Unite 8
